@@ -1,4 +1,4 @@
-# GenAI PRD & RFC Templates
+# AI-Product-Playbook
 
 Practical templates for AI product teams building GenAI features responsibly.
 
