@@ -1,4 +1,4 @@
-# AI Launch Readiness Checklist
+# AI Launch Readiness Framework
 
 ## Overview
 
